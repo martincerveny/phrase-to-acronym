@@ -1,0 +1,17 @@
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.Tests.deps.json
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.Tests.runtimeconfig.json
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.Tests.runtimeconfig.dev.json
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.Tests.dll
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.Tests.pdb
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.csprojAssemblyReference.cache
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.csproj.CoreCompileInputs.cache
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.AssemblyInfoInputs.cache
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.AssemblyInfo.cs
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.dll
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.pdb
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.dll
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/bin/Debug/netcoreapp2.2/PhraseToAcronym.pdb
+/Users/martincerveny/Moje dokumenty/FI MUNI/2. semester/PV260 - Software Quality/projekty/PhraseToAcronym/PhraseToAcronym.Tests/obj/Debug/netcoreapp2.2/PhraseToAcronym.Tests.csproj.CopyComplete
